@@ -1,7 +1,4 @@
 # Table of contents
 
-* [Untitled](README.md)
-
-## Главное
-
-* [Вики](glavnoe/viki.md)
+* [Главное](README.md)
+  * [Вики](readme/viki.md)

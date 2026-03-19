@@ -8,3 +8,12 @@
 ## Правила
 
 * [Виды наказаний](pravila/vidy-nakazanii.md)
+* [Правила сервера](pravila/pravila-servera.md)
+* [Правила торговли](pravila/pravila-torgovli.md)
+* [Резервные зоны](pravila/rezervnye-zony.md)
+
+## Фишки
+
+* [Дисплеи](fishki/displei.md)
+* [Напитки](fishki/napitki.md)
+* [Дополнительные](fishki/dopolnitelnye.md)

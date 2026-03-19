@@ -8,9 +8,9 @@ icon: arrow-right-to-bracket
 
 ### Как подать заявку?
 
-Заявку ты можешь подать в нашем Discord:
+Заявку ты можешь подать в нашем Discord
 
-{% embed url="https://discord.gg/52P7esPQ6Q" %}
+<a href="https://discord.gg/52P7esPQ6Q" class="button primary" data-icon="discord">Присоедениться к Frogdream в Discord!</a>
 
 ### Не хочешь писать заявку или её отклонили?
 
@@ -31,3 +31,4 @@ icon: arrow-right-to-bracket
 {% hint style="danger" icon="triangle-exclamation" %}
 **Обрати внимание:** **Cменить ник можно только раз в 3 дня!**
 {% endhint %}
+

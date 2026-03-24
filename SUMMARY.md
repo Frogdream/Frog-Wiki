@@ -17,3 +17,8 @@
 * [Дисплеи](fishki/displei.md)
 * [Напитки](fishki/napitki.md)
 * [Дополнительные](fishki/dopolnitelnye.md)
+
+## Парламент и структуры сервера
+
+* [Совет министров](parlament-i-struktury-servera/sovet-ministrov.md)
+* [Суд](parlament-i-struktury-servera/sud.md)

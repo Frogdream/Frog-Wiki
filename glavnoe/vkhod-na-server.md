@@ -8,7 +8,7 @@ icon: arrow-right-to-bracket
 
 ### Как подать заявку?
 
-Заявку ты можешь подать в нашем Discord
+Заявку ты можешь подать на нашем [сайте](https://frogdream.ing) или в Discord.
 
 <a href="https://discord.gg/52P7esPQ6Q" class="button primary" data-icon="discord">Присоедениться к Frogdream в Discord!</a>
 
@@ -18,15 +18,22 @@ icon: arrow-right-to-bracket
 
 ### Что делать после получения проходки?
 
-Поздравляем! Если твою заявку подтвердили, ты можешь зайти на наш сервер!
+Поздравляем! Если твою заявку подтвердили, ты можешь зайти на наш сервер! \
+У сервера есть 2 IP - адреса:
 
 {% hint style="success" icon="network-wired" %}
-**IP Основного сервера:** `frogdream.tech`**. Версия 1.21.11.**
+**frogdream.ing**
 {% endhint %}
+
+{% hint style="success" icon="network-wired" %}
+**mc.frogg.lol**
+{% endhint %}
+
+**Версия 1.21.11**
 
 ### Смена ника на сервере
 
-Если ты хочешь изменить ник, через который будешь заходить на сервер, то в нашем Discord сервере пропиши команду `/changenick`.
+Если ты хочешь изменить ник, через который будешь заходить на сервер, то поменяй его на нашем [сайте](https://frogdream.ing) в личном кабинете.
 
 {% hint style="danger" icon="triangle-exclamation" %}
 **Обрати внимание:** **Cменить ник можно только раз в 3 дня!**

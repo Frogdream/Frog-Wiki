@@ -8,7 +8,7 @@ icon: paintbrush
 
 ### Участки
 
-<figure><img src="../.gitbook/assets/изображение.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Основные команды
 

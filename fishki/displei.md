@@ -11,7 +11,7 @@ icon: tv
 
 Это идеально как для крутой рекламы, так и для весёлого отдыха. Представь, как ты собираешься с друзьями и смотришь фильм на огромном экране в игре.<br>
 
-<figure><img src="../.gitbook/assets/изображение (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <a href="https://modrinth.com/mod/dreamdisplays" class="button primary" data-icon="folder-arrow-down">Скачать Dream Displays</a>
 

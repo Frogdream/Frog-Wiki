@@ -4,6 +4,7 @@
 
 * [Вики](README.md)
 * [Вход на Сервер](glavnoe/vkhod-na-server.md)
+* [Сайт](glavnoe/sait.md)
 
 ## Правила
 

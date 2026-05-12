@@ -10,16 +10,16 @@ icon: arrow-right-to-bracket
 
 Заявку ты можешь подать на нашем [сайте](https://frogdream.ing) или в Discord.
 
-<a href="https://discord.gg/52P7esPQ6Q" class="button primary" data-icon="discord">Присоедениться к Frogdream в Discord!</a>
+<a href="https://discord.gg/52P7esPQ6Q" class="button primary" data-icon="discord">Присоединиться к Frogdream в Discord!</a>
 
 ### Не хочешь писать заявку или её отклонили?
 
 В таком случае остался лишь 1 способ: **купить проходку**.
 
-### Что делать после получения проходки?
+### Что делать после одобрения заявки или покупки проходки?
 
 Поздравляем! Если твою заявку подтвердили, ты можешь зайти на наш сервер! \
-У сервера есть 2 IP - адреса:
+У сервера есть 2 IP-адреса:
 
 {% hint style="success" icon="network-wired" %}
 **frogdream.ing**

@@ -27,10 +27,6 @@ icon: paintbrush
 {% endhint %}
 
 {% hint style="info" %}
-/plot delete — удалить плот
-{% endhint %}
-
-{% hint style="info" %}
 /plot middle — телепортироваться на середину участка
 {% endhint %}
 
@@ -51,7 +47,7 @@ icon: paintbrush
 {% endhint %}
 
 {% hint style="info" %}
-/plot info — посмотреть информация об участке
+/plot info — посмотреть информацию об участке
 {% endhint %}
 
 {% hint style="info" %}

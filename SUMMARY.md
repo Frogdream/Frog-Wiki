@@ -15,8 +15,9 @@
 
 ## Фишки
 
-* [Дисплеи](fishki/displei.md)
+* [Мир ферм и Мир построек](fishki/mir-ferm-i-mir-postroek.md)
 * [Напитки](fishki/napitki.md)
+* [Дисплеи](fishki/displei.md)
 * [Дополнительные](fishki/dopolnitelnye.md)
 
 ## Парламент и структуры сервера

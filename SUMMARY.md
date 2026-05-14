@@ -16,6 +16,7 @@
 ## Фишки
 
 * [Мир ферм и Мир построек](fishki/mir-ferm-i-mir-postroek.md)
+* [Банкоматы](fishki/bankomaty.md)
 * [Персонажи](fishki/personazhi.md)
 * [Напитки](fishki/napitki.md)
 * [Дисплеи](fishki/displei.md)

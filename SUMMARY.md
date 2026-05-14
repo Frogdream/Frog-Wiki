@@ -28,10 +28,6 @@
 * [Система Патентов](parlament-i-struktury-servera/sistema-patentov.md)
 * [Лицензия на магазины](parlament-i-struktury-servera/licenziya-na-magaziny.md)
 
-## Творческий сервер
-
-* [Творческий сервер](tvorcheskii-server/tvorcheskii-server.md)
-
 ## Fusion
 
 * [Fusion](fusion/fusion.md)
